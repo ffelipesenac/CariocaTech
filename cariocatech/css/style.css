@@ -1,0 +1,44 @@
+.produtos{
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 7%;
+    
+    
+}
+
+
+.banner{
+    display: flex;
+    justify-content: center;
+    margin-top: 7%;
+}
+
+
+.categorias > div > img{
+    width: 50%;
+}
+
+
+#categorias{
+    margin-top: 7%;
+}
+
+
+.card-title{
+    font-size: 17px;
+}
+
+.card-body{
+
+    display: flex;
+    flex-direction: column;
+}
+
+.preco{
+    font-size: 30px;
+    font-weight: 700;
+    
+}
